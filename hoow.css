@@ -1,0 +1,24 @@
+.hea {
+	height: 105px; width: 100%;background-color: yellowgreen;margin-bottom: 10px;box-sizing: border-box; padding: 15px;
+}
+div {
+	float: left;
+}
+.nav{
+	height: 385px; width: 200px;background-color: yellowgreen;box-sizing: border-box; padding: 15px;
+}
+.arti{
+	height: 300px; width: 990px;background-color: yellowgreen;margin-left: 10px; box-sizing: border-box; padding: 15px;
+}
+.middle{
+	width: 1000px;float: left;
+}
+.ads{
+	height: 75px; width: 990px;background-color: yellowgreen;margin-top: 10px;margin-left: 10px;box-sizing: border-box; padding: 15px;
+}
+.foot{
+	height: 100px; width: 100%;background-color: yellowgreen;margin-top: 10px;box-sizing: border-box; padding: 15px;
+}
+.fullbox{
+	height: 600px;width: 1200px;background-color: transparent;margin: -8px;
+}
